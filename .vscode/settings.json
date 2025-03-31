@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "system.h": "c",
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "usbd_ctlreq.h": "c",
+        "usbd_cdc_if.h": "c",
+        "stdarg.h": "c",
+        "usart.h": "c",
+        "lsm6dsr_port.h": "c",
+        "limits": "cpp",
+        "type_traits": "cpp",
+        "motor.h": "c",
+        "string.h": "c",
+        "gpio.h": "c",
+        "wk_double_tx.h": "c",
+        "cstdarg": "c",
+        "spi.h": "c"
+    }
+}
